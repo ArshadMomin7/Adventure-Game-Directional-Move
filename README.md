@@ -3,4 +3,4 @@ This repository consists of an Adventure game in which the user can move in dire
 
 # Please refer this below map image to understand the code better
 
-![Adventure Game](photos/Adventure Game.JPG)
+![Adventure Game](photos/Adventure_Game.JPG)
